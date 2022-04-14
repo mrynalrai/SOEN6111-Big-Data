@@ -31,5 +31,5 @@ Anime File includes various categorical metrics like name, genre, producer, stud
   	Future Scope is to use implicit metrics like number of watched episodes with ALS to make recommendations for users.
   </p>
 
-## Data-set
+## Dataset
 https://www.kaggle.com/datasets/hernan4444/anime-recommendation-database-2020
