@@ -33,3 +33,4 @@ Anime File includes various categorical metrics like name, genre, producer, stud
 
 ## Dataset
 https://www.kaggle.com/datasets/hernan4444/anime-recommendation-database-2020
+ratings_complete.csv (Private): https://drive.google.com/drive/folders/15WlaYzvT-xAY_CteuJRhPKQGcRE9iiZo 
