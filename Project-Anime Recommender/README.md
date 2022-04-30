@@ -25,11 +25,8 @@ Anime File includes various categorical metrics like name, genre, producer, stud
 <p align="justify">
     We will be creating a personalized anime recommendation using explicit data set from anime. </p>
   <p>
-  	Our objective is to study and develop KNN item-based collaborative filtering with Pearson correlation coefficient to recommend Top N animes to users. We will compare the above method results with another technique called Matrix Factorization(ALS) which utilizes latent factors to improve on limitations like cold start, overfitting , popularity bias, scalability and sparse matrix issues. Using ALS, we want to factorize rating matrices into user and anime matrices to predict better recommendation for users. The evaluation matrix for ALS method is RMSE and Top N.
+  	Our objective is to study and develop KNN item-based collaborative filtering with Pearson correlation coefficient to recommend Top N animes to users. We will compare the above method results with another technique called Matrix Factorization(ALS) which utilizes latent factors to improve on limitations like cold start, overfitting , popularity bias, scalability and sparse matrix issues. Using ALS, we want to factorize rating matrices into user and anime matrices to predict better recommendation for users. The evaluation method for ALS method used is RMSE.
 </p>
-<p>
-  	Future Scope is to use implicit metrics like number of watched episodes with ALS to make recommendations for users.
-  </p>
 
 ## Dataset
 <p> https://www.kaggle.com/datasets/hernan4444/anime-recommendation-database-2020 </p>
